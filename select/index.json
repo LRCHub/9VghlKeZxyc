@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "So Far Gone",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-13T06:37:04.963160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Near, but so Far Gone",
+      "artist": "Gold Necklace",
+      "has_synced": true,
+      "path": "select/01_Near,_but_so_Far_Gone_Gold_Necklace.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "So Far Gone (AMP Remix)",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/02_So_Far_Gone_(AMP_Remix)_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/03_So_Far_Gone_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "Sneaker Pimps feat. Simonne Jones",
+      "has_synced": true,
+      "path": "select/04_So_Far_Gone_Sneaker_Pimps_feat._Simonne_Jones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "Sneaker Pimps Simonne Jones",
+      "has_synced": true,
+      "path": "select/05_So_Far_Gone_Sneaker_Pimps_Simonne_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_So_Far_Gone_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_So_Far_Gone_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/08_So_Far_Gone_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "So Far Gone (Joshua Silverberg Remix)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/09_So_Far_Gone_(Joshua_Silverberg_Remix)_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So Far Gone (The Joshua Silverberg Remix)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/10_So_Far_Gone_(The_Joshua_Silverberg_Remix)_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "So Far Gone [The Joshua Silverberg Remix]",
+      "artist": "Thousand Foot Krutch; Joshua Silverberg",
+      "has_synced": true,
+      "path": "select/11_So_Far_Gone_[The_Joshua_Silverberg_Remix]_Thousand_Foot_Krutch;_Joshua_Silverberg.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "The Neal Morse Band",
+      "has_synced": true,
+      "path": "select/12_So_Far_Gone_The_Neal_Morse_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "So far Gone",
+      "artist": "Fade",
+      "has_synced": true,
+      "path": "select/13_So_far_Gone_Fade.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "So Far Gone / Fast Life Bluez",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/14_So_Far_Gone___Fast_Life_Bluez_Brent_Faiyaz.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "So Far Gone",
+      "artist": "Nurko feat. Autrey",
+      "has_synced": true,
+      "path": "select/15_So_Far_Gone_Nurko_feat._Autrey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Far Gone",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_So_Far_Gone_ONE_OK_ROCK.txt"
+    }
+  ]
+}
